@@ -8,5 +8,6 @@ public class GitPractice2 {
 	public void m2()
 	{
 		System.out.println("Good");
+		System.out.println("Good morning");
 	}
 }
